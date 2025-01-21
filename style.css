@@ -1,0 +1,29 @@
+/* *{
+    color: white;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+body{
+    background-color: rgba(0, 0,0,0.85);
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+.version{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+.version img{
+    height: 300px;
+    width: 300px;
+}
+.logo img{
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+} */
